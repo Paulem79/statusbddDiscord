@@ -1,0 +1,2 @@
+Importation discord.js :
+ npm i discord.js
